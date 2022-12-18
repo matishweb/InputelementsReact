@@ -31,7 +31,7 @@ function App() {
   return (
     <div>
         <form>
-        <h1> Click the below buttonn</h1>
+        <h1> Click the below button</h1>
         <label>Enter your first name:
         <input type="text" name="fname" onChange={handleFchange}/>
       </label>
